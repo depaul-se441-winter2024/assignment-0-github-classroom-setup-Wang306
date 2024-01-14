@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Zining Wang and my GitHub alias is co = checkout.
+My name is Zining Wang and my GitHub alias is Wang306.
 
 ## Optional Next Steps
 
